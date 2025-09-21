@@ -14,10 +14,10 @@ This repository is **PUBLIC** and accessible to everyone for use and learning.
 ### For Team Members
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/multi-agent-launch-orchestrator.git
-   cd multi-agent-launch-orchestrator
-   ```
+```bash
+git clone https://github.com/jigar56/agents_sj.git
+cd agents_sj
+```
 
 2. **Follow the setup instructions in README.md**
 

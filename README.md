@@ -72,8 +72,8 @@ A comprehensive system for automating product launch operations using 15 special
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/multi-agent-launch-orchestrator.git
-cd multi-agent-launch-orchestrator
+git clone https://github.com/jigar56/agents_sj.git
+cd agents_sj
 ```
 
 ### 2. Backend Setup
